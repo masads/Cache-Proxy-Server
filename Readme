@@ -1,0 +1,4 @@
+First install node
+then run "npm install"
+then run "npm run dev"
+and goto " localhost:9000/?site='www.example.com' "
