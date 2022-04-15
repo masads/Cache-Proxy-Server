@@ -1,16 +1,20 @@
 # Cache-Proxy-Server-NodeJS
 ## Installation
-install [wget](https://builtvisible.com/download-your-website-with-wget/).
-Install Node
+install [wget](https://builtvisible.com/download-your-website-with-wget/)
+
+Install [Node](https://nodejs.org/en/download/)
 
 To install all required packages
 ```bash
 npm install
 ```
 
-Start Server by 
+To Start Server  
 ```bash
 npm run dev
 ```
 
-Goto " localhost:9000/?site='www.example.com' "
+Check 
+```bash 
+localhost:9000/?site='www.example.com' 
+```
